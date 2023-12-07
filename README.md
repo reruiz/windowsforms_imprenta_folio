@@ -23,7 +23,7 @@ Esta aplicación de Windows Forms, desarrollada en C#, facilita la generación d
 
 ## Uso del Programa
 Para utilizar el programa, siga estos pasos:
-1. Descargue el archivo [ejecutable.zip]({{file name='ejecutable.zip'}}) que se encuentra en la raíz del repositorio.
+1. Descargue el archivo [Descargar Ejecutable](ejecutable.zip) que se encuentra en la raíz del repositorio.
 2. Descomprima el archivo y ejecute `folio.exe`.
 
 ## Requisitos
