@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "windowsforms_imprenta_folio", "windowsforms_imprenta_folio\windowsforms_imprenta_folio.csproj", "{3C8E236B-8223-401D-9C84-75CC5D37ABD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C8E236B-8223-401D-9C84-75CC5D37ABD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8E236B-8223-401D-9C84-75CC5D37ABD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8E236B-8223-401D-9C84-75CC5D37ABD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8E236B-8223-401D-9C84-75CC5D37ABD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD1FD95C-C2D6-4D4B-BA32-369F402C3763}
+	EndGlobalSection
+EndGlobal
